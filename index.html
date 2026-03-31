@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web App</title>
+    <style>
+        body {
+        font-family: Arial;
+        text-align: center;
+        margin-top: 100px;
+        background-color: #3d9bf4;
+    }
+    h1 {
+            color: #090909;
+    }
+    button {
+        padding: 10px 20px;
+        background: blue;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+    </style>
+</head>
+<body>
+
+    <h1> Hello Reena! Your App is Running</h1>
+
+    <button onclick="openCalculator()">Calculator</button>
+    <button onclick="openMusic()">Music-player</Music-player></button>
+
+    <p id="result"></p>
+
+    <script>
+        function openCalculator() {
+            window.location.href = "/calculator";
+        }
+        function openMusic() {
+            window.location.href="/music"
+        }
+    </script>
+
+</body>
+</html>
