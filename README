@@ -1,0 +1,149 @@
+ Hi, I'm Reena Shah
+Roll Nomber- 0201AI233D05
+Branch- AI&ds
+
+Final Year Engineering Student (AI & Data Science)
+Passionate about building real-world projects using Python, AI, and Web Development
+
+---
+
+ About This Project
+
+This project is a multi-feature web application developed using Flask, where I combined:
+
+- A modern Calculator
+-  A dynamic Music Player
+
+The goal of this project was to practice full-stack development by integrating frontend (HTML, CSS, JS) with backend (Flask) and handling real-world issues like routing, static files, and debugging.
+
+---
+
+What This Project Shows About Me
+
+- ✔ Ability to build end-to-end web applications
+- ✔ Strong understanding of Flask & routing
+- ✔ Experience with debugging real errors (Jinja, paths, static files)
+- ✔ Frontend + Backend integration skills
+- ✔ Problem-solving mindset 
+
+---
+
+-  Calculator – A stylish and interactive calculator UI
+-  Music Player – A dynamic music player with playlist support
+
+The project demonstrates full-stack fundamentals including frontend UI, backend routing, and static asset management.
+
+---
+
+ Features
+
+     Calculator
+
+        - Responsive UI design
+        - Basic arithmetic operations
+        - Clean and modern layout
+
+     Music Player
+
+        - Playlist-based audio system
+        - Play / Pause / Next / Previous controls
+        - Volume control slider
+        - Dynamic song switching
+
+---
+Tech Stack
+
+    Technology| Usage
+    Python (Flask)| Backend & Routing
+    HTML| Structure
+    CSS| Styling & UI
+    JavaScript| Logic & Interactivity
+
+---
+
+📁 Project Structure
+
+        myapp/
+        │
+        ├── app.py
+        │
+        ├── templates/
+        │     ├── index.html
+        │     ├── calculator.html
+        │     └── music-player.html
+        │
+        ├── static/
+        │     ├── style.css
+        │     ├── script.js
+        │     ├── music-player.css
+        │     ├── music-player.js
+        │     └── music/
+        │          ├── song1.mp3
+        │          ├── song2.mp3
+        │          └── ...
+
+---
+
+⚙️ Installation & Setup
+
+1️.) Clone the repository
+
+git clone <your-repo-link>
+
+2️.) Navigate to project folder
+
+cd myapp
+
+3️.) Install dependencies
+
+pip install flask
+
+4️.) Run the app
+
+python app.py
+
+---
+
+Usage
+
+    Open browser and visit:
+
+http://127.0.0.1:5000
+
+- Click Calculator → Opens calculator page
+- Click Music Player → Opens music player
+
+---
+
+ Key Learnings
+
+        - Flask routing and template rendering
+        - Static file handling (CSS, JS, Media)
+        - Frontend + Backend integration
+        - Debugging real-world errors (Jinja, paths, etc.)
+
+---
+
+ Future Improvements
+
+    - Add authentication system
+    - Store playlist using database
+    - Add upload feature for songs
+    - Improve UI with animations
+
+---
+
+ Author
+
+    Reena Shah
+    Final Year Engineering Student (AI & DS)
+
+---
+
+ Conclusion
+
+This project is a beginner-to-intermediate level full-stack web application that showcases practical implementation of Flask with frontend technologies.
+
+---
+
+ Feel free to fork, improve, and build upon this project!
